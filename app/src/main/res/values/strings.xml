@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GadsPractice</string>
+    <string name="submit">Submit</string>
+    <string name="header_title">Leader Board</string>
+    <string name="submit_main">Submit</string>
+    <string name="are_you_sure">Are You Sure</string>
+    <string name="failed_dialog">Submission Not Successful</string>
+    <string name="submission_successful">Submission Successful</string>
+</resources>
